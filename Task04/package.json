@@ -1,0 +1,14 @@
+{
+  "name": "pipy",
+  "version": "1.0.0",
+  "description": "Node home task four",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dzianis Spartak",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.3.0"
+  }
+}
